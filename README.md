@@ -1,1 +1,1 @@
-# HandWrittenDifitsClassifier
+# HandWrittenDigitsClassifier
